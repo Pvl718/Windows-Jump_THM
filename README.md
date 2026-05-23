@@ -300,9 +300,8 @@ nt authority\system
 type C:\flag4.txt
 ```
 
-![SYSTEM whoami и flag3](images/13_system_whoami_flag3.png)
 
-> **flag4: THM{pr1nt_n1ghtm4r3_pwn3d}**
+> **flag4: THM{t4sk_wr1t3_t0_SYST3M}**
 
 ---
 
