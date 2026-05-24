@@ -339,3 +339,4 @@ type C:\flag4.txt
 - **Слабые права на сервисные бинарники** позволяют подменить исполняемый файл
 - **PrintNightmare** работает без `SeImpersonatePrivilege` — только через DLL загрузку в Spooler
 - **Кастомная DLL** на чистом C обходит Windows Defender лучше чем msfvenom shellcode
+ABOUT TryHackMe - Windows Jump | Writeup & Walkthrough | CTF
